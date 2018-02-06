@@ -36,7 +36,7 @@ if everything goes as it supposed you will see the next lines in the terminal:
 Data loaded
 Running server.... press ctrl+c to stop
 ```
-Now you can do an HTTP request to or server. You have to give a certain id in a json format like this:
+Now you can do an HTTP request to or server to the url: `http://127.0.0.1:8080/id`. You have to give a certain id in a json format like this:
 ```
 {
     "id":"d783754511f044c"
