@@ -8,14 +8,20 @@ You have to install the next dependencies to successfully run the code:
 - tornado
 - requests
 
-To install Python3 just go to it's website and find where to download an installer of python or if you are in a linux machine you could also find a command which download and intsall python3.
+To install Python3 just go to it's website and find where to download it  an installer of python or if you are in a linux machine you could also find a command which download and intsall python3.
 When you have python3 installed you have to install pip3 ( a comand which download and install different packages).
 If you are in a linux machine, run this code in a terminal:
 
 ```bash
 sudo apt install python3-pip
 ```
-Done that install the tornado and requests packages with the folliwing command:
+and in MacOS
+```
+python get-pip.py
+```
+if you are in windows you should have already installed pip3 package.
+
+Done that install the tornado and requests packages with the following command:
 
 ```bash
 sudo pip3 install tornado requests
