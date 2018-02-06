@@ -55,6 +55,6 @@ The response should be this:
     }
 }
 ```
-Last but not least here is my favorite git, hope you enjoy it, and of course thanks to give me this opportunity. I enjoy developing this code.
+Last but not least here is my favorite git, hope you enjoy it, and of course thanks to give me this opportunity. I had fun doing this code.
 
 ![mygif](bestgif.gif)
